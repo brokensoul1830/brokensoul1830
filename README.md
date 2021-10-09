@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @brokensoul1830
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+brokensoul1830/brokensoul1830 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+i'm intersted in learning and applying codes, api and developing maybe a website
+i am a newbie though only been doing this for about 5 months now friends asked why learn something new like this late in life.
+i told them because i can. i'm looking for anyones help or insite on anything
